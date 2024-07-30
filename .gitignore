@@ -1,0 +1,10 @@
+a.out
+p
+v10c.v
+
+# ignore all compiled files 
+*.vvp
+
+#ignore all vcd files 
+*.vcd
+
